@@ -24,5 +24,7 @@
 * As a user, I should be to use 2 modes of transportation in a single path (e.g. walk to a certain place, then bike to the next).
 
 ### Technologies
+![mean-logo](./images/mean-logo.jpeg)
 * MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)
+![google_maps_api](./images/gogole_maps_api.png)
 * Google Maps API

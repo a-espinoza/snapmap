@@ -1,6 +1,5 @@
 # SnapMap
 
-
 ### User Stories
 
 **Bronze**
@@ -23,3 +22,7 @@
 **Platinum**
 * As a user, I should be able to see other people's trips and photos.
 * As a user, I should be to use 2 modes of transportation in a single path (e.g. walk to a certain place, then bike to the next).
+
+### Technologies
+* MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)
+* Google Maps API

@@ -26,5 +26,5 @@
 ### Technologies
 ![mean-logo](./images/mean-logo.jpeg)
 * MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)
-![google_maps_api](./images/gogole_maps_api.png)
+![google_maps_api](./images/google_maps_api.png)
 * Google Maps API

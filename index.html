@@ -5,13 +5,20 @@
     <meta charset="utf-8">
     <title>SnapMap</title>
     <link rel="stylesheet" href="./styles.css" >
+    <link href="https://fonts.googleapis.com/css?family=Cabin+Sketch|Shanti" rel="stylesheet">
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
     <script src="./app.js"></script>
   </head>
 
   <body data-ng-controller="MapController">
+    <nav>
+      <h1>SnapMap</h1>
+    </nav>
 
-    <div id="map"></div>
+    <div class="maincontent">
+      <!-- Renders Map -->
+      <div id="map"></div>
+    </div>
 
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjrC1aVgXr6C3E3RteJgBRT2oxIVHGkEI&callback=initMap"
   async defer></script>

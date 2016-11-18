@@ -18,13 +18,19 @@ h1{
   font-weight:bold;
   font-size: 40px;
   margin-left: 10px;
+  color: #fff;
+}
+h1 span:hover{
+  color: #FFCA00;
+    /*-webkit-transform: scale(1.2);*/
+  -webkit-transition: all .3s ease-in-out;
 }
 nav{
   height: 10vh;
   width: 100vw;
   position: fixed;
-  background-color: blanchedalmond;
-  opacity: .7;
+  background-color: #003366;
+  border-bottom: 1px solid #D4D4D5;
 }
 .maincontent{
   display: flex;
